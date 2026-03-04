@@ -23,12 +23,21 @@ _. Select New repository_
 _. Enter a name for your repository and click Create repository_
 
 **2. Initialize a Local Repository**
+
+. Add all your project files to the staging area:
 ```
 git init
 ```
 **3. Add and Commit Your Files**
+
+_. Add all your project files to the staging area:_
 ```
 git add .
+```
+
+_. Commit the files with a meaningful message:_
+```
+git commit -m "Initial commit"
 ```
 **4. Add the Remote Repository**
 ```
