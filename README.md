@@ -15,8 +15,13 @@ node index.js
 https://www.geeksforgeeks.org/git/how-to-push-a-project-and-contribute-on-github/
 
 **1. Create a New Repository on GitHub**
-```
-```
+
+_. Go to your GitHub account and click the + icon in the top-right corner_
+
+_. Select New repository_
+
+_. Enter a name for your repository and click Create repository_
+
 **2. Initialize a Local Repository**
 ```
 git init
